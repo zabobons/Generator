@@ -1,6 +1,6 @@
 #include <iostream>
-#include "min.h"
-#include "generator.h"
+#include "max.h"
+#include "utils.h"
 
 int main()
 {	
